@@ -1,0 +1,42 @@
+[
+    {
+        "id": 83,
+        "name": "WFP Centro de Excelência Contra a Fome Brasil",
+        "about": "O WFP Centro de Excelência Contra a Fome Brasil é uma agência da ONU, e vai distribuir kits para higienização de cestas básicas, permitindo que milhares de alunos da rede pública continuem tendo acesso à merenda escolar. Eles distribuirão kits de higienização para as secretarias de educação dos municípios para a descontaminação das cestas básicas entregue aos alunos da rede pública.",
+        "goal": "50000.0",
+        "photo": {"url": "https://d9hhrg4mnvzow.cloudfront.net/home.ribon.io/wfp-home/a64a5d84-img-9177-wfp-natan-giuliano_00000000000000000001o.jpg"},
+        "quota_total": 0,
+
+        "quota_value": "50.0",
+        "ong_name":"WFP",
+        "ong_cnpj":"99.999.949/9999-99"
+    },
+    {
+
+        "id": 85,
+        "name": "Ação da Cidadania",
+        "about": "A ONG Ação da Cidadania vai distribuir alimentos para comunidades carentes afetadas pela crise de saúde pública provocada pelo Coronavírus. A distribuição dos alimentos é feita principalmente para pessoas que perderam o emprego e estão em situação de vulnerabilidade por conta da crise do Coronavírus.",
+        "goal": "50000.0",
+        "photo": {"url": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/323711/799360_707298.png"},
+        "quota_total": 0,
+
+        "quota_value": "50.0",
+        "ong_name":"Cidadania",
+        "ong_cnpj":"99.999.949/9999-99"
+    },
+    {
+
+        "id": 86,
+        "name": "Pimp My Carroça",
+        "about": "A ONG Pimp My Carroça vai distribuir cartões que garantem uma renda mínima para catadores autônomos cadastrados no app Cataki em todo o Brasil. Se os catadores continuam trabalhando nas ruas, estão expostos. Se deixam de coletar, não ganham dinheiro. Sua doação ajuda a preservar a saúde dos responsáveis pela coleta de 90% de tudo que o Brasil recicla.",
+        "goal": "50000.0",
+        "photo": {"url": "http://pimpmycarroca.com/wp-content/uploads/2018/08/4-350x350.jpg"},
+        "quota_total": 0,
+
+        "quota_value": "50.0",
+        "ong_name":"Pimp My Carroça",
+        "ong_cnpj":"99.999.949/9999-99"
+    }
+]
+
+

@@ -1,6 +1,7 @@
 import ExpandableBox from "./ExpandableBox";
 import Input from "./Input";
 import Button from "./Button";
+import CardDonations from "./CardDonations";
 import CardStats from "./CardStats";
 import CardNews from "./CardNews";
 import ArticleNewsHeader from "./ArticleNewsHeader";
@@ -14,15 +15,19 @@ import MapBrazil from "./MapBrazil";
 import MapCities from "./MapCities"; 
 import SocialShare from "./SocialShare";
 import DailyCases from "./Charts/DailyCases";
+import DailyDeaths from "./Charts/DailyDeaths";
 import TotalCases from "./Charts/TotalCases";
 import RegionCases from "./Charts/RegionCases";
 import TotalDeaths from "./Charts/TotalDeaths";
+import CasesAndDeaths from "./Charts/CasesAndDeaths";
 import MapArea from "./MapArea";
 import Marker from "./Marker";
+import Loading from "./Loading";
 export {
   Input,
   ExpandableBox,
   Button,
+  CardDonations,
   CardStats,
   CardNews,
   ArticleNewsHeader,
@@ -35,10 +40,13 @@ export {
   MapCities,
   SocialShare,
   DailyCases,
+  DailyDeaths,
   TotalCases,
   RegionCases,
   TotalDeaths,
+  CasesAndDeaths,
   MapArea,
   Marker,
-  MapBrazil
+  MapBrazil,
+  Loading,
 };
